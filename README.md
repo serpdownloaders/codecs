@@ -1,5 +1,6 @@
 # codecs
 
+```js
 export const expected_formats = {
   '3dostr': { d: true, e: false, _: '3DO STR' },
   '3g2': { d: false, e: true, _: '3GP2 (3GPP2 file format)' },
@@ -4920,3 +4921,4 @@ export const expected_codecs = {
   },
   xsub: { d: true, e: true, t: 'S', i: false, l: false, s: false, _: 'XSUB' }
 };
+```
